@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'WT_CatsNFT';
+const COLLECTION_NAME = 'Walkie-Talkie Cats';
 let editions = [];
 let dots = 1;
 
